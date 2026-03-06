@@ -24,4 +24,4 @@ The detector uses three states to track the input stream. When the first zero is
 
 - `zero_pattern_detector.v` – Verilog design file  
 - `zero_pattern_detector_tb.v` – Testbench used for simulation  
-- `waveform.png` – Simulation waveform showing the detection output
+- `waveform1.png` – Simulation waveform showing the detection output
