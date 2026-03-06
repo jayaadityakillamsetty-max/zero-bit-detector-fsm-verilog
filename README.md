@@ -18,7 +18,7 @@ The detector uses three states to track the input stream. When the first zero is
 
 ## Simulation Waveform
 
-![Waveform](waveform.png)
+![Waveform](waveform1.png)
 
 ## Project Files
 
